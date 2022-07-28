@@ -19,6 +19,8 @@ public class DBHelper extends SQLiteOpenHelper {
     private static final String COLUMN_NOTE_CONTENT = "note_content";
 
 
+
+
     public DBHelper(Context context) {
         super(context, DATABASE_NAME, null, DATABASE_VERSION);
     }

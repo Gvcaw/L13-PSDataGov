@@ -3,9 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/21024429/AndroidStudioProjects/P09/demodatabasecrud/app/src/main/res/drawable/ic_launcher_background.xml" value="0.279" />
-        <entry key="..\:/Users/21024429/AndroidStudioProjects/P09/demodatabasecrud/app/src/main/res/layout/activity_edit.xml" value="0.1" />
-        <entry key="..\:/Users/21024429/AndroidStudioProjects/P09/demodatabasecrud/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/21024429/AndroidStudioProjects/P11/DemoCustomContactList/app/src/main/res/layout/activity_main.xml" value="0.13796296296296295" />
+        <entry key="..\:/Users/21024429/AndroidStudioProjects/P11/DemoCustomContactList/app/src/main/res/layout/row.xml" value="0.1" />
       </map>
     </option>
   </component>
